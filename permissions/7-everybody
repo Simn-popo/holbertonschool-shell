@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod 640 {u+x}{g+x}{o+x} hello 
+chmod 640 {u+x}{g+x}{o+x} hello
+chmod 444 {u+x}{g+x}{o+x} hello
